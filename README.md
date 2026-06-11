@@ -1,8 +1,8 @@
 ### About me
-My name is Diyorbek Alikuziev, I am a python backend developer.
-I am a professional in creating telegram bots and websites.
+My name is Alijonov Abdulqodir and I am 21 years old,
+So I am learning developer nowdays!
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/dalikuziev)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/the_incertus)
 
 ---
 
